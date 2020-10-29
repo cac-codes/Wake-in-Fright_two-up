@@ -1,3 +1,15 @@
+
+.grid-container {
+  display: block;
+  padding-left: 10rem;
+  padding-top: 6rem;
+}
+
+.spacer {
+  display: block;
+  height: 100px;
+}
+
 .container {
   position: relative;
   width: 100%;
